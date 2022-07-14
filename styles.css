@@ -7,6 +7,8 @@ div {
     font-weight: bold;
 } 
 */
+
+/*css from second exercise: class id selectors---------
 .number-one,
 .number-three,
 .number-five {
@@ -30,3 +32,20 @@ div {
     font-weight: bold;
 }
 
+------------------end of second exercise */
+
+.click-me
+{
+    background-color:black;
+    color: white;
+}
+
+.no-click-me {
+    background-color: yellow;
+}
+
+.click-me,
+.no-click-me {
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman", sans-serif;
+}
