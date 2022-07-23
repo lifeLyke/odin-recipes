@@ -8,6 +8,8 @@ div {
 } 
 */
 
+
+
 /*css from second exercise: class id selectors---------
 .number-one,
 .number-three,
@@ -34,6 +36,9 @@ div {
 
 ------------------end of second exercise */
 
+
+
+/* third exercise ---------------
 .click-me
 {
     background-color:black;
@@ -48,4 +53,17 @@ div {
 .no-click-me {
     font-size: 28px;
     font-family: Helvetica,"Times New Roman", sans-serif;
+}
+-------------------- end of third ex. */
+
+
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+    height: 400;
+    width: 200;
 }
